@@ -1,6 +1,6 @@
 
-# Aqui é um trecho de código que envolve o variáveis do tipo 
-#string, float, int, booleano e também tupla (além de também ter uma condicional);
+# Aqui é um trecho de código que envolve variáveis do tipo 
+#string, float, int, booleano e também tem uma tupla (além de também ter uma condicional);
 
 #Parte 1, usada no arquivo VariavelWithPython00:
 variavel1 = "Python não é KamelKaze, logo não precisa letras Maiúsculas."
