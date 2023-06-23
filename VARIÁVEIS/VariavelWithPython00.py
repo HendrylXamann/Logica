@@ -1,9 +1,9 @@
 # Aqui está apenas um trecho de código utilizando variáveis cujo os valores são do tipo string, float e também uma tupla;
-variavel1 = "Python não é KamelKaze, logo não precisa de letras Maiúsculas."
-print(variavel1)
+variAvel1 = "Python não é KamelKaze e sim Case Sensitive."
+print(variAvel1)
 
-variavel_2 = "A forma mais prática de fazer separações no corpo da variável é usando underline."
-print(variavel_2)
+VARIAVEL2 = "Normalmente fazemos separações no corpo da variável usando underline."
+print(VARIAVEL2)
 
 variavel_3 = "Podemos colocar valores numéricos separados por ponto tranquilamente:"
 variavel_4 = 7.4
