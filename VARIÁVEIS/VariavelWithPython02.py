@@ -1,5 +1,5 @@
 #Aqui é um trecho de código que envolve o variáveis do tipo 
-#string e int:
+#string e int além de usar a função "len":
 print('Iae')
 print('Qual seu nome?') 
 nome = str(input())
