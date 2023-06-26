@@ -1,5 +1,5 @@
 # Aqui está apenas um trecho de código utilizando variáveis cujo os valores são do tipo string, float e também uma tupla;
-variAvel1 = "Python não é KamelKaze e sim Case Sensitive."
+variAvel1 = "Python não é somente KamelKaze mas Case Sensitive também."
 print(variAvel1)
 
 VARIAVEL2 = "Normalmente fazemos separações no corpo da variável usando underline."
