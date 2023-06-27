@@ -5,7 +5,7 @@ print('Qual seu nome?')
 nome = str(input())
 print('Satisfação Sr(a) ' + nome)
 lenn = len(nome)
-print('Você já reparou que eu nome tem ' + str(int(lenn)) + ' letras?')
+print('Você já reparou que eu nome tem ' + str(int(lenn)) + ' letras?')#STR(INT(LENN)) pois o python não concatena string com inteiro e vice versa, para fazer isso usamos essa "conversão"
 #print(lenn)
 print('Mas mudando de assunto, fala ae, qual sua idade?') 
 idade = input()
