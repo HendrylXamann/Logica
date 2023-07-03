@@ -3,7 +3,7 @@
 #string, float, int, booleano e também tupla (além de também ter uma condicional);
 
 #Parte 1, usada no arquivo VariavelWithPython00:
-variavel1 = "Python não é somente KamelKaze mas Case Sensitive também."
+variavel1 = "Python é Case Sensitive, logo variavel e Variavel serão diferentes."
 print(variavel1)
 
 variavel_2 = "A forma mais prática de fazer separações no corpo da variável é usando underline.\n"
