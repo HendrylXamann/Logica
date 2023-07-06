@@ -1,6 +1,9 @@
 # Aqui está apenas um trecho de código utilizando variáveis cujo os valores são do tipo string, float e também uma tupla;
-variAvel1 = "Python é Case Sensitive, logo variavel e Variavel serão diferentes."
+variAvel1 = "Python é Case Sensitive, mas podemos escrever uma variável de diversas formas"
 print(variAvel1)
+
+_VariAvel = "Ela não começando com número ou caractere especial está tudo bem"
+print(_VariAvel)
 
 VARIAVEL2 = "Normalmente fazemos separações no corpo da variável usando underline." #Mas não quer dizer que não posso declarar de várias formas
 print(VARIAVEL2)
