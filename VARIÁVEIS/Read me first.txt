@@ -1,0 +1,8 @@
+Fiz esses 5 arquivos contendo variáveis e recomendo começar com o item 5.
+Em cada arquivo vou mostrar um pouco sobre o que são variáveis e enfatizar a sintaxe do python, mas segue uma descrição de cada arquivo:
+00 - Variáveis simples - (string, float e tupla);
+01 - Variáveis simples dentro de um pequeno contexto com o uso de condicional - (string, float, int, booleano e tupla);
+02 - Variáveis simples com o uso de uma função built in do python - (string e int);  
+03 - Formas simples de declarar e atribuir valores em variáveis;
+04 - Formas de usar/chamar variáveis;
+05 - Síntese dos tipos de variáveis; 
