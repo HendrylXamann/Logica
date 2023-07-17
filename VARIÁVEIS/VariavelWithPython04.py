@@ -13,7 +13,7 @@ funcao_exemplo()
 
 print("Este estava " + a)
 
-#Variável/ Palavra-chave Global é uma possibilidade, ela quando utilizada se torna um tipo de constante
+#Variável/ Palavra-chave Global é uma possibilidade, ela quando utilizada se torna um tipo de constante (está mais detalhado em escopo global -Dentro de funções)
 #O último valor atribuido a ela será o o exibido:
 x = "Boston deveria ter ganhado do miami nessa temporada de 2023"
 
