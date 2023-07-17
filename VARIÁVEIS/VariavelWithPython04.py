@@ -14,7 +14,7 @@ funcao_exemplo()
 print("Este estava " + a)
 
 #Variável/ Palavra-chave Global é uma possibilidade, ela quando utilizada se torna um tipo de constante (está mais detalhado em escopo global -Dentro de funções)
-#O último valor atribuido a ela será o o exibido:
+#Lembrando que se as variáveis tiverem valores diferentes (global diferente da local) serão duas variáveis distintas:
 x = "Boston deveria ter ganhado do miami nessa temporada de 2023"
 
 def nba2023():
