@@ -24,3 +24,5 @@ def nba2023():
 nba2023()
 
 print("Apenas uma revolta:" + x)
+
+#Mas isso é anulado com o comando global que fixa o primeiro valor atribuido.
